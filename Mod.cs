@@ -65,6 +65,7 @@ namespace SHVDNModTemplate
 
         public void OnTick(object sender, EventArgs e)
         {
+            // The main mod loop. Menus, input and mod logic are processed here
             pool.Process();
 
             if (Game.IsControlJustPressed(GTA.Control.Context))
@@ -106,6 +107,7 @@ namespace SHVDNModTemplate
 
         private void OnAbort(object sender, EventArgs e)
         {
+            // Don't forget to clean up after exit or failure
             ResetPlayer();
             ClearPools();
         }
