@@ -4,7 +4,7 @@ A mod template for GTA V using ScriptHookVDotNet.
 
 ## Install
 
-1. Grab the latest [binaries](https://github.com/POWRFULCOW89/LastStand/releases/download/v0.1/LastStand.dll)
+1. Grab the latest [binaries](https://github.com/POWRFULCOW89/SHVDNModTemplate/releases)
 
 2. Install [Script Hook V .NET](https://www.gta5-mods.com/tools/scripthookv-net)
 
