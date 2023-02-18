@@ -14,7 +14,7 @@ A mod template for GTA V using ScriptHookVDotNet.
 
 A notification will confirm the correct load of the mod and the [ini file](./ModSettings.ini).
 You can then spawn a car using the [Lemon UI](https://github.com/LemonUIbyLemon/LemonUI) menus or 
-teleport to waypoint using the T key or get your coordinates using with P.
+teleport to waypoint using the T key or get your coordinates with P.
 
 ### Resources for developers
 
